@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Matias Morales (MatiusJBG)
 
-🎓 Estudiante de **Ingeniería de Software** enfocado en el desarrollo **Backend**, **Sistemas Distribuidos** y aplicaciones móviles con **Flutter**.  
+🎓 Estudiante de **Ingeniería de Software** enfocado en el desarrollo **Full Stack**, **Sistemas Distribuidos** y aplicaciones móviles con varios lenguajes.  
 💻 Apasionado por diseñar arquitecturas escalables, optimizar consultas en bases de datos relacionales y aplicar buenas prácticas de código y documentación técnica.
 
 ---
@@ -29,15 +29,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiusJBG&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiusJBG&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
 
 ---
 
